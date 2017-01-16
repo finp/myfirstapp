@@ -1,0 +1,23 @@
+{
+  "name": "myfirstapp",
+  "version": "1.0.0",
+  "description": "a simple app to parse json",
+  "main": "c.js",
+  "dependencies": {
+    "json-query": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finp/myfirstapp.git"
+  },
+  "author": "finp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finp/myfirstapp/issues"
+  },
+  "homepage": "https://github.com/finp/myfirstapp#readme"
+}
